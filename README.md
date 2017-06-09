@@ -5,15 +5,7 @@
 + Please modify cookie info when this tool is blocked by lianjia due to ip traffic issue.
 
 ## Usage
-+ Download source code and install package dependency. 
-```
-1. git clone https://github.com/XuefengHuang/lianjia-scrawler.git
-2. cd lianjia-scrawler
-# If you'd like not to use [virtualenv](https://virtualenv.pypa.io/en/stable/), please skip step 3 and 4.
-3. virtualenv lianjia
-4. source lianjia/bin/activate
-5. pip install -r requirements.txt
-```
+
 + Setting DB config at config.ini
 ```
 [Mysql]
